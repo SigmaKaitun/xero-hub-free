@@ -11,3 +11,5 @@ getgenv().Configs = {
     ["Find Fruit"] = false, -- Will find 1m+ fruit to unlock swan door to access third sea
     ["Cursed Dual Katana"] = true
 }
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SigmaKaitun/xero-hub-free/refs/heads/main/xero%20kaitun.lua"))()
